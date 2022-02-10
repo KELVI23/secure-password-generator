@@ -1,0 +1,4 @@
+username: admin
+password: 123456789
+workstation: admin1
+email: admin@admin.com

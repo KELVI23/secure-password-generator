@@ -1,0 +1,12 @@
+java -jar myJar.jar
+
+https://stackoverflow.com/questions/16276192/how-to-export-as-runnable-desktop-application-java
+
+https://www.tutorialsfield.com/login-form-in-java-swing-with-source-code/
+
+https://crunchify.com/java-generate-strong-random-password-securerandom/
+
+https://www.tutorialspoint.com/java_cryptography/java_cryptography_decrypting_data.htm
+
+https://stackoverflow.com/questions/33293761/username-password-lookup-in-hashmaphttps://stackoverflow.com/questions/2745206/output-in-a-table-format-in-javas-system-out
+
