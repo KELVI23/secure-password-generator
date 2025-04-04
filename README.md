@@ -62,4 +62,4 @@ This project is open-source. Feel free to modify and use it according to your ne
 
 ---
 
-*For any issues or contributions, please refer to the repository on [GitHub](https://github.com/KELVI23/secure-password-generator).* 
+*For any issues or contributions, please refer to the repository on [GitHub](https://github.com/KELVI23/secure-password-generator).*
